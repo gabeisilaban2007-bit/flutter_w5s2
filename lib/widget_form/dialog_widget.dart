@@ -144,7 +144,7 @@ class _DialogWidgetState extends State<DialogWidget> {
                 }
               },
               child: const Text('Open Bottomsheet confirmation'),
-            ),
+    git add .        ),
             const SizedBox(height: 8),
 
             // 4. Snackbar
